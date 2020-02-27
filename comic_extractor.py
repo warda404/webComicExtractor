@@ -32,7 +32,7 @@ def downloadImage(page_number):
                 image_src_link, downloadPath + "page_" + page_number + ".jpg")
 
 
-total pages of webcomic
+# total pages of webcomic
 pages = 196
 
 for page_number in range(1, pages + 1):
